@@ -1,0 +1,8 @@
+{
+    "user": "developer",
+    "password": "eastfield",
+    "host": "localhost",
+    "port": 5432,
+    "database": "projectapi_test"
+  }
+  
